@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dd0DewN.jpg", Quando As Luzes Se Apagam - HBO
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E49AC0A22A7BB7367C5EA360F03688D3F39DF83B&dn=Lights%20Out%202016%20Bluray%20720p%20Legendado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce
-
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/the-summoned-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg", The Summoned
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6675A0604C7DE4F3AEF678D1102CCDAEC68686E1&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.79-GB.The.Summoned.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
@@ -24,41 +21,26 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0CBF16FA0DD7EE748B2
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/neon-lights-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg", Neon Lights
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C43292EC831F1BC376B6E3FB37929B14E93027E&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.75-GB.Neon.Lights.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/castelo-maldito-legendado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg", Playhouse
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b119328940f740fb30d7c1ceeaf57014adf59ed6&dn=VACATORRENT.COM..MKV.-LEGENDADO-..Castelo%20Maldito%202020%20720p%20WEB-DL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/xR7gW2Oj8Qku5m82SvWfwTbwopM.jpg", Rising Boas in a Girl’s School
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC8354479A462614DA24B8C23760C4BD5AB23864&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.67-GB.Rising.Boas.in.a.Girls.School.2022.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannoun
 
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/revealer-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg", Revealer
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94207836F08C337B27890B71FB65683A5312A36F&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.66-GB.Revealer.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/the-haunting-of-the-tower-of-london-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg", The Haunting of the Tower of London
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC7C896CC052B7FD6434806E7201EF6432D03558&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.66-GB.The.Haunting.of.the.Tower.of.London.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/harmony-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg", Harmony
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DDE3978C1478E3DF4B6F348F19F6637B696088D6&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.33-GB.Harmony.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/howards-mill-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg", Howards Mill
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95011C7C5E2E3DE259741B7F0E02D82B1118782A&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.89-GB.Howard.s.Mill.2021.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/woodland-grey-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg", Woodland Grey
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B931D5A9CE684D3C88836908A7B980EE17369869&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.70-GB.Woodland.Grey.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 tvg-logo="CAPA", NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/the-righteous-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg", The Righteous
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42E95899C0FD2937EF52FB33FE2B7AE349FC060D&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.62-GB.The.Righteous.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
